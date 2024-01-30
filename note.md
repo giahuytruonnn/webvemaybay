@@ -16,8 +16,10 @@ git branch -d {branch name}: xóa branch
 
 conflict thì khi giải quyết xong thì m phải 'add . 'và 'commit lại'
 
+remote : là github
+Local : là máy đang sử dụng
 --Liên kết với github
-*PUSH LÊN
+\*PUSH LÊN
 B1: tạo reponsitory mới(tên giống dưới local)
 B2: copy đường dẫn
 sau đó thì:
@@ -25,7 +27,7 @@ git push <đường dẫn> <tên branch hiện tại>
 --thay thế đường dẫn:
 git remote add origin <đường dẫn> -> biến đường dẫn thành 1 cái tên bây muốn
 
-*DOWN VỀ:
+\*DOWN VỀ:
 B1: lấy đường hướng dẫn
 B2: git clone <đường hướng dẫn>
 
@@ -41,8 +43,8 @@ git checkout -b <tên branch> origin/<tên branch>
 nếu muốn merge thì xài pull trên github
 --khi merge xong trên github mà muốn cái master ở máy nó cập nhật lại thì quay về master và xài git pull
 
-
 --.gitinore thì nó sẽ đéo ghi cái file mà m để vô file này
 
 # Terms
+
 Repository : thư mục dự án
