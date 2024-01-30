@@ -45,6 +45,7 @@ nếu muốn merge thì xài pull trên github
 
 --.gitinore thì nó sẽ đéo ghi cái file mà m để vô file này
 
+
 # Terms
 
 Repository : thư mục dự án
